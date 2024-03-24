@@ -1,0 +1,26 @@
+:root{
+   --color-bg:rgba(251, 251, 251, 0.2);
+
+}
+.card {
+    border: none;
+    transition: transform 0.4s ease;
+    
+}
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+/*footer de imagenes*/
+.bgFooter{
+    background-color: var(--color-bg);
+}
