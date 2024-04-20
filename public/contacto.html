@@ -102,11 +102,11 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26469847.70742788!2d-79.94013980404108!3d-35.91803071520147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccaf5f5fdc667%3A0x3d2f77992af00fa8!2sArgentina!5e0!3m2!1ses!2sar!4v1711401177498!5m2!1ses!2sar" width="600" height="450" style="width:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
               </div>
               <div class="column">
-                <form action="/index.html">
+                <form action="/index.html" method="POST">
                   <label for="namecontact">Nombre</label>
-                  <input type="text" id="fname" name="firstname" placeholder="Tu Nombre.">
+                  <input type="text" id="fname" name="firstname" placeholder="Tu Nombre." required>
                   <label for="apellidocontact">Apellido</label>
-                  <input type="text" id="lname" name="lastname" placeholder="Tu Apeliido">
+                  <input type="text" id="lname" name="lastname" placeholder="Tu Apeliido." required>
                   <label for="country">Ubicacion</label>
                   <select id="country" name="country">
                     <option value="argentina">Argentina</option>
@@ -115,7 +115,7 @@
                     <option value="Json">Obtener con Json</option>
                   </select>
                   <label for="subject">Comentario</label>
-                  <textarea id="subject" name="subject" placeholder="Tu mensaje" style="height:170px"></textarea>
+                  <textarea id="subject" name="subject" placeholder="Tu mensaje..." style="height:170px" required></textarea>
                   <input type="submit" value="Enviar">
                 </form>
               </div>
