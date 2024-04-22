@@ -24,3 +24,6 @@
 .bgFooter{
     background-color: var(--color-bg);
 }
+.flex-1{
+    flex: 1;
+}
