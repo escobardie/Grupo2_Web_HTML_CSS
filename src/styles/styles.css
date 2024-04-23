@@ -20,10 +20,15 @@
     justify-content: center;
     align-items: center;
 }
+
+.flex-1{
+    flex: 1 1 auto;
+}
 /*footer de imagenes*/
 .bgFooter{
     background-color: var(--color-bg);
 }
+
 
 /* Estilo del inputs */
 input[type=text], select, textarea {
