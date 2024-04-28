@@ -20,6 +20,33 @@
     justify-content: center;
     align-items: center;
 }
+/*tendencias*/
+.image-container {
+    position: relative;
+    overflow: hidden; /* Asegura que el texto no se desborde fuera de la imagen */
+}
+
+.image-container img {
+    width: 100%; /* Asegura que la imagen ocupe todo el ancho del contenedor */
+    height: auto; /* Ajusta la altura de la imagen automáticamente */
+    display: block; /* Elimina espacios en blanco debajo de la imagen */
+    filter: blur(1.5px);
+}
+
+.image-container a {
+    position: absolute; /* Coloca el enlace sobre la imagen */
+    top: 50%; /* Centra verticalmente */
+    left: 50%; /* Centra horizontalmente */
+    transform: translate(-50%, -50%); /* Centra completamente el contenido */
+    background-color: rgba(255, 255, 255, 0.8); /* Opcional: agregar fondo semi-transparente */
+    padding: 5px 10px; /* Opcional: ajustar el espacio alrededor del texto */
+    border-radius: 5px; /* Opcional: agregar bordes redondeados */
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    color: black; /* Color del texto */
+}
+
+
+
 
 .flex-1{
     flex: 1 1 auto;
