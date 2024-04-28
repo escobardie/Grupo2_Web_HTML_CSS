@@ -24,6 +24,75 @@
 .bgFooter{
     background-color: var(--color-bg);
 }
+<<<<<<< Updated upstream
 .flex-1{
     flex: 1 1 auto;
+=======
+
+
+/* Estilo del inputs */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+          
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+          
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+/* Crear dos columnas que flotan una al lado de la otra */
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+}
+          
+/* Limpiar flotadores después de las columnas. */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.image-container {
+    position: relative;
+    overflow: hidden; /* Asegura que el texto no se desborde fuera de la imagen */
+}
+
+.image-container img {
+    width: 100%; /* Asegura que la imagen ocupe todo el ancho del contenedor */
+    height: auto; /* Ajusta la altura de la imagen automáticamente */
+    display: block; /* Elimina espacios en blanco debajo de la imagen */
+    filter: blur(1.5px); /* Aplica un desenfoque de 5px a la imagen */
+}
+
+.image-container a {
+    position: absolute; /* Coloca el enlace sobre la imagen */
+    top: 50%; /* Centra verticalmente */
+    left: 50%; /* Centra horizontalmente */
+    transform: translate(-50%, -50%); /* Centra completamente el contenido */
+    
+    padding: 5px 10px; /* Opcional: ajustar el espacio alrededor del texto */
+    border-radius: 5px; /* Opcional: agregar bordes redondeados */
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    color: #ffffff;
+}   
+/* Diseño responsivo: cuando la pantalla tiene menos de 600 píxeles de ancho, haga que las dos columnas se apilen una encima de la otra en lugar de una al lado de la otra. */
+@media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+>>>>>>> Stashed changes
 }
