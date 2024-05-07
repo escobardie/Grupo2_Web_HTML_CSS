@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./styles_single_page.css">
     <title>Single page</title>
@@ -35,7 +38,7 @@
                     </li>
                     <li>
                         <div class="profile-menu" id="subMenu">
-                             <ul>
+                            <ul>
                                 <li><a href="#">Mi perfil</a></li>
                                 <li><a href="#">Mis posteos</a></li>
                                 <li><a href="#">Configuración</a></li>
@@ -48,65 +51,132 @@
             </nav>
         </header>
         <br>
-        <!-- agregar etiqueta para el elemento que guia donde nos encontramos-->
-        <main>
-            <section class="section">
-                <h1>Hay vida en la luna</h1>
-                <figure>
-                    <img src="./assets/img/nasa-pd4lo70LdbI-unsplash.jpeg" alt="imagen de la luna" width="640" height="740" class="main-img">
-                </figure>
-                <p class="main-txt"> En los últimos años, la Luna ha sido objeto de un renovado interés y especulación científica. Descubrimientos recientes, incluida la 
-                presencia de agua en forma de hielo en regiones permanentemente sombreadas, han planteado la posibilidad intrigante de que nuestro 
-                satélite natural podría albergar formas de vida microbianas.
-
-                Investigadores de varias agencias espaciales, incluida la NASA y la Agencia Espacial Europea (ESA), han estado analizando datos 
-                recopilados por misiones robóticas y satélites en órbita lunar. Estos datos han revelado la presencia de agua en cantidades limitadas, 
-                así como otros compuestos orgánicos que podrían servir como bloques de construcción para la vida.
-                
-                Si bien la idea de vida en la Luna aún está en gran parte en el ámbito de la especulación, este descubrimiento plantea preguntas 
-                fascinantes sobre el potencial de la Luna para albergar formas de vida más allá de lo que habíamos imaginado. Los científicos están ansiosos por seguir investigando y realizando más misiones a la Luna para estudiar este fenómeno en detalle.
-                
-                Aunque aún quedan muchas incógnitas por resolver, estos hallazgos subrayan la importancia de seguir explorando y estudiando nuestro 
-                vecino celestial más cercano. La posibilidad de vida en la Luna abre nuevas perspectivas sobre la naturaleza del universo y nuestro 
-                lugar en él. Sin duda, este es un emocionante capítulo en la historia de la exploración espacial que continuará inspirando y 
-                desafiando a las mentes científicas de todo el mundo.
-                </p>
-                <h2></h2>
-                <p></p>  
-            </section>
+        <!-- <div class="location-site">
+            <p>Inicio</p>
+            <p>Categoría</p>
+            <p>Ciencia</p>
+            <p>Hay vida en la luna</p>
+        </div> -->
+        <main class="main">
+            <div class="bg-color"></div>
+            <h1>Hay vida en la luna</h1>
+            <figure>
+                <img class="art-img" src="./assets/img/malith-d-karunarathne-qIRJeKdieKA-unsplash640.jpeg" alt="imagen de la luna" width="640" height="393" class="main-img">
+            </figure>
+            <figcaption class="figcaption">
+                <p><i class="fa-regular fa-calendar"></i>25 de marzo, 2024</p>
+                <p><i class="fa-regular fa-folder"></i>Categoría, Ciencia</p>
+            </figcaption>
+            <h2>Explorando los límites: La fascinante posibilidad de vida en la Luna</h2>
+            <p class="main-txt"> En los últimos años, la Luna ha captado un renovado interés 
+            científico debido a descubrimientos como la presencia de agua en forma de hielo 
+            en regiones permanentemente sombreadas. Esto ha suscitado la posibilidad de vida
+            microbiana en nuestro satélite. Agencias espaciales como la NASA y la ESA han 
+            analizado datos de misiones robóticas y satélites, revelando agua y compuestos 
+            orgánicos. Aunque la idea de vida lunar es especulativa, estos hallazgos 
+            plantean preguntas intrigantes y destacan la importancia de continuar 
+            explorando la Luna. La posibilidad de vida en la Luna abre nuevas perspectivas 
+            sobre el universo y sigue siendo un emocionante campo de estudio para 
+            científicos en todo el mundo.
+            </p>
         </main>
-        <aside>
-            <div class="aside-buttons">
-                <button></button>
-                <button></button>
-                <button></button>
+        <aside class="aside">
+            <div class="a-buttons">
+                <button class="aside-button"><i class="fa-regular fa-paper-plane"></i>Compartir</button>
+                <button class="aside-button"><i class="fa-regular fa-bookmark"></i>Marcar</button>
+                <button class="aside-button"><i class="fa-regular fa-comment-dots"></i>Comentar</button>
             </div>
-            <div class="Tags">
+            <div class="tags">
                 <h3>Etiquetas</h3>
                 <div class="tags-links">
-                    <a href="#">Montenegro</a>
-                    <a href="#">Montenegro</a>
-                    <a href="#">Montenegro</a>
-                    <a href="#">Montenegro</a>
-                </div>
-                <h3>Posteos relacionados</h3>
-                <div class="post-links">
-                    <img src="" alt="">
-                    <p></p>
-                    <img src="" alt="">
-                    <p></p>
-                    <img src="" alt="">
-                    <p></p>
-                    <img src="" alt="">
-                    <p></p>
-                    <img src="" alt="">
-                    <p></p>
+                    <a href="#" class="tag">Exploración Espacial</a>
+                    <a href="#" class="tag">Astrobiología</a>
+                    <a href="#" class="tag">Luna</a>
+                    <a href="#" class="tag">Vida Extraterrestre</a>
+                    <a href="#" class="tag">Exploración Científica</a>
                 </div>
             </div>
+            <div class="post-links">
+                <h3>Posteos relacionados</h3>
+                <div class="posts">
+                    <img class="rel-img" src="./assets/img/related-post/greg-rakozy-oMpAz-DN-9I-unsplash.jpeg" alt="" width="640" height="427">
+                    <p>Explorando el Universo: Descubrimientos y Desafíos</p>
+                    <img class="rel-img" src="./assets/img/related-post/hal-gatewood-OgvqXGL7XO4-unsplash.jpeg" alt="" width="640" height="427">
+                    <p>Ciencia en Evolución: Avances y Perspectivas</p>
+                    <img class="rel-img" src="./assets/img/related-post/chuttersnap-UmncJq4KPcA-unsplash.jpeg" alt="" width="640" height="427">
+                    <p>Misterios del Cosmos: Descubrimientos Científicos Actuales</p>
+                    <img class="rel-img" src="./assets/img/related-post/donald-giannatti-Wj1D-qiOseE-unsplash.jpeg" alt="" width="640" height="426">
+                    <p>Caminos hacia el Conocimiento: Investigaciones Transformadoras</p>
+                    <img class="rel-img" src="./assets/img/related-post/nasa-yZygONrUBe8-unsplash.jpeg" alt="" width="640" height="426">
+                    <p>Desafíos Científicos: Avances y Reflexiones</p>
+                </div>
+            </div>
+            
             </aside>
         
-        <footer>
-
+        <footer class="footer">
+            <div class="site-map">
+                <div class="info">
+                    <div class="info1">
+                        <h4>Mega News</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus minima soluta facere recusandae autem iste est! Nisi error, esse quasi velit explicabo adipisci molestiae aspernatur dolore deleniti accusantium enim omnis.</p>
+                    </div>
+                    <div class="info2">
+                        <h4>Newsletter</h4>
+                        <input type="email">
+                    </div>
+                    <div class="info3">
+                        <h4>Categorías</h4>
+                        <ul>
+                            <li>Cultura</li>
+                            <li>Ciencia</li>
+                            <li>Deporte</li>
+                            <li>Espectáculo</li>
+                            <li>Social</li>
+                        </ul>
+                    </div>
+                    <div class="info4">
+                        <h4>Redes Sociales</h4>
+                        <button class="instagram"></button>
+                        <button class="twitter"></button> 
+                    </div>
+                </div>
+                <div class="policy">
+                    <p class="terms"> Privacy Policy | Terms & Conditions</p>
+                    <p class="terms"> All Copyright (C) 2024 Reserved</p>
+                </div>
+            </div>
+            <div class="foot-comments">
+                <h4>Nuevos comentarios</h4>
+                <div class="ft-comment">
+                    <h6>Ellsmarts</h6>
+                    <p>Las recetas son buenísimas</p>
+                </div>
+                <div class="ft-comment">
+                    <h6>Milena</h6>
+                    <p>Las recetas son muy buenas</p>
+                </div>
+                <div class="ft-comment">
+                    <h6>Cassio</h6>
+                    <p>Las recetas son muy buenas</p>
+                </div>
+                <div class="ft-comment">
+                    <h6>Denis</h6>
+                    <p>Las recetas son muy buenas</p>
+                </div>
+            </div>
+            <div class="foot-follow">
+                <h4>Seguinos en Instagram</h4>
+                <img class="insta-img" src="./assets/img/footer-insta-img/louis-hansel-wOISTbCpUCc-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/c-d-x-PDX_a_82obo-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/grace-madeline-6S6i2uYYW4w-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/jason-leung-Xaanw0s0pMk-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/manja-vitolic-gKXKBY-C-Dk-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/sebastian-staines-xZIFEPtRsRI-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/sean-oulashin-KMn4VEeEPR8-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/mockuuups-5E1rHL9XP7U-unsplash.jpeg" alt="">
+                <img class="insta-img" src="./assets/img/footer-insta-img/pierre-chatel-innocenti-Lk-nu_hX6ms-unsplash.jpeg" alt="">
+            </div>
         </footer>
     </div> <!--termina wrapper-->
 
