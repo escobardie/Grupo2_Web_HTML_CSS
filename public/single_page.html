@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="./styles_single_page.css">
+    <link rel="stylesheet" href="../src/styles/styles_single_page.css">
     <title>Single page</title>
 </head>
 <body>
@@ -15,7 +15,7 @@
 
         <header class="header">
             <nav class="flex-nav">
-                <img class="logo" src="" alt="logo">
+                <a href="index.html"><img class="logo" src="" alt="logo"></a>
                 <ul class="left-side">
                     <li><a href="#">Categorías</a></li>
                     <li><a href="#">Páginas</a></li>
@@ -33,7 +33,7 @@
                     </li>
                     <li>
                         <figure>
-                            <img src="./assets/img/aiony-haust-3TLl_97HNJo-unsplash.jpeg" class="user-pic" alt="foto de perfil del usuario" width="640" height="800" onclick="toggleMenu()">
+                            <img src="../public/assets/img/single_page_assets/aiony-haust-3TLl_97HNJo-unsplash.jpeg" class="user-pic" alt="foto de perfil del usuario" width="640" height="800" onclick="toggleMenu()">
                         </figure>
                     </li>
                     <li>
@@ -61,7 +61,7 @@
             <div class="bg-color"></div>
             <h1>Hay vida en la luna</h1>
             <figure>
-                <img class="art-img" src="./assets/img/malith-d-karunarathne-qIRJeKdieKA-unsplash640.jpeg" alt="imagen de la luna" width="640" height="393" class="main-img">
+                <img class="art-img" src="../public/assets/img/single_page_assets/malith-d-karunarathne-qIRJeKdieKA-unsplash640.jpeg" alt="imagen de la luna" width="640" height="393" class="main-img">
             </figure>
             <figcaption class="figcaption">
                 <p><i class="fa-regular fa-calendar"></i>25 de marzo, 2024</p>
@@ -99,15 +99,15 @@
             <div class="post-links">
                 <h3>Posteos relacionados</h3>
                 <div class="posts">
-                    <img class="rel-img" src="./assets/img/related-post/greg-rakozy-oMpAz-DN-9I-unsplash.jpeg" alt="" width="640" height="427">
+                    <img class="rel-img" src="../public/assets/img/single_page_assets/related-post/greg-rakozy-oMpAz-DN-9I-unsplash.jpeg" alt="" width="640" height="427">
                     <p>Explorando el Universo: Descubrimientos y Desafíos</p>
-                    <img class="rel-img" src="./assets/img/related-post/hal-gatewood-OgvqXGL7XO4-unsplash.jpeg" alt="" width="640" height="427">
+                    <img class="rel-img" src="../public/assets/img/single_page_assets/related-post/hal-gatewood-OgvqXGL7XO4-unsplash.jpeg" alt="" width="640" height="427">
                     <p>Ciencia en Evolución: Avances y Perspectivas</p>
-                    <img class="rel-img" src="./assets/img/related-post/chuttersnap-UmncJq4KPcA-unsplash.jpeg" alt="" width="640" height="427">
+                    <img class="rel-img" src="../public/assets/img/single_page_assets/related-post/chuttersnap-UmncJq4KPcA-unsplash.jpeg" alt="" width="640" height="427">
                     <p>Misterios del Cosmos: Descubrimientos Científicos Actuales</p>
-                    <img class="rel-img" src="./assets/img/related-post/donald-giannatti-Wj1D-qiOseE-unsplash.jpeg" alt="" width="640" height="426">
+                    <img class="rel-img" src="../public/assets/img/single_page_assets/related-post/donald-giannatti-Wj1D-qiOseE-unsplash.jpeg" alt="" width="640" height="426">
                     <p>Caminos hacia el Conocimiento: Investigaciones Transformadoras</p>
-                    <img class="rel-img" src="./assets/img/related-post/nasa-yZygONrUBe8-unsplash.jpeg" alt="" width="640" height="426">
+                    <img class="rel-img" src="../public/assets/img/single_page_assets/related-post/nasa-yZygONrUBe8-unsplash.jpeg" alt="" width="640" height="426">
                     <p>Desafíos Científicos: Avances y Reflexiones</p>
                 </div>
             </div>
@@ -179,13 +179,6 @@
             </div>
         </footer>
     </div> <!--termina wrapper-->
-
-    <script>
-        let subMenu = document.getElementById("subMenu");
-
-        function toggleMenu(){
-            subMenu.classList.toggle("open-menu");
-        }
-    </script>
+    <script src="../src/Script/single_page.js"></script>
 </body>
 </html>
