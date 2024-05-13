@@ -56,7 +56,7 @@
         <p>Completa el formulario y a la brevedad nos contactaremos:</p>
         <div class="container">
             <div style="text-align:center">
-                <p>Completa el formulario y a la brevedad nos contactaremos:</p>
+                <p>Completa el formulario y a la brevedad nos contactaremos:</p>                
             </div>
             <div class="row">
                 <div class="column">
@@ -64,22 +64,42 @@
                     width="600" height="450" style="width:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="column">
-                    <form action="/index.html" method="POST">
-                        <label for="namecontact">Nombre</label>
-                        <input type="text" id="fname" name="firstname" placeholder="Tu Nombre." required>
-                        <label for="apellidocontact">Apellido</label>
-                        <input type="text" id="lname" name="lastname" placeholder="Tu Apellido." required>
-                        <label for="country">Ubicacion</label>
-                        <select id="country" name="country">
-                            <option value="argentina">Argentina</option>
-                            <option value="paraguay">Paraguay</option>
-                            <option value="brasil">Brasil</option>
-                            <option value="Json">Obtener con Json</option>
-                        </select>
-                        <label for="apellidocontact">Asunto</label>
-                        <input type="text" id="asunt" name="asunt" placeholder="Asunto." required>
-                        <label for="subject">Comentario</label>
-                        <textarea id="subject" name="subject" placeholder="Tu mensaje..." style="height:170px" required></textarea>
+                    <form  onsubmit="return validacionformcontacto();">
+                        
+
+                        <label for="namecontact">Nombre</label><label id="mensajename"></label>
+                        <input type="text" id="fname" name="firstname" placeholder="Tu Nombre.">
+                        
+                        <label for="apellidocontact">Apellido</label><label id="mensajeapell"></label>
+                        <input type="text" id="lname" name="lastname" placeholder="Tu Apellido." >
+
+                        <label for="country">Ubicacion</label><label id="mensajeubi"></label>            
+                        <div id="mainMenu"></div>
+                            <!--<select id="country" name="country">-->
+                            <!--<option value="">- Selecciona un pais -</option>
+                            <option value="Afganistán">Afganistán</option>
+                            <option value="Albania">Albania</option>
+                            <option value="Alemania">Alemania</option>
+                            <option value="Andorra">Andorra</option>
+                            <option value="Angola">Angola</option>
+                            <option value="Antigua y Barbuda">Antigua y Barbuda</option>
+                            <option value="Arabia Saudita">Arabia Saudita</option>
+                            <option value="Argelia">Argelia</option>
+                            <option value="Argentina">Argentina</option>
+                               -->
+                            <!--</select>-->
+                     
+                        
+
+                        <label for="email">Email</label><label id="mensajeemail"></label>
+                        <input type="text" id="email" placeholder="Ingrese su email">
+        
+                        <!--<label for="apellidocontact">Asunto</label><label id="mensajeasun"></label>
+                        <input type="text" id="asunt" name="asunt" placeholder="Asunto." >
+                        -->
+                        <label for="subject">Comentario</label><label id="mensajecomen"></label>
+                        <textarea id="comentario" name="subject" placeholder="Tu mensaje..." style="height:170px" ></textarea>
+                        
                         <input type="submit" value="Enviar">
                     </form>
                 </div>
@@ -243,8 +263,7 @@
   </div>
   <!-- End of .container -->
 
-
-  <script src="/src/Script/script.js"></script>
+    <script src="/src/Script/script.js"></script>
 </body>
 
 </html>
