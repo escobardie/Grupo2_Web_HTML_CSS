@@ -1,0 +1,1498 @@
+{
+    "paises": [
+      {
+        "código": 4,
+        "codigo": "AFG",
+        "alfa-2": "AF",
+        "nombre": "Afganistán"
+      },
+      {
+        "código": 8,
+        "codigo": "ALB",
+        "alfa-2": "AL",
+        "nombre": "Albania"
+      },
+      {
+        "código": 10,
+        "codigo": "ATA",
+        "alfa-2": "AQ",
+        "nombre": "Antártida"
+      },
+      {
+        "código": 12,
+        "codigo": "DZA",
+        "alfa-2": "DZ",
+        "nombre": "Argelia"
+      },
+      {
+        "código": 16,
+        "codigo": "ASM",
+        "alfa-2": "AS",
+        "nombre": "Samoa americana"
+      },
+      {
+        "código": 20,
+        "codigo": "AND",
+        "alfa-2": "AD",
+        "nombre": "Andorra"
+      },
+      {
+        "código": 24,
+        "codigo": "AGO",
+        "alfa-2": "AO",
+        "nombre": "Angola"
+      },
+      {
+        "código": 28,
+        "codigo": "ATG",
+        "alfa-2": "AG",
+        "nombre": "Antigua y Barbuda"
+      },
+      {
+        "código": 31,
+        "codigo": "AZE",
+        "alfa-2": "AZ",
+        "nombre": "Azerbaiyán"
+      },
+      {
+        "código": 32,
+        "codigo": "ARG",
+        "alfa-2": "AR",
+        "nombre": "Argentina"
+      },
+      {
+        "código": 36,
+        "codigo": "AUS",
+        "alfa-2": "AU",
+        "nombre": "Australia"
+      },
+      {
+        "código": 40,
+        "codigo": "AUT",
+        "alfa-2": "AT",
+        "nombre": "Austria"
+      },
+      {
+        "código": 44,
+        "codigo": "BHS",
+        "alfa-2": "BS",
+        "nombre": "Bahamas"
+      },
+      {
+        "código": 48,
+        "codigo": "BHR",
+        "alfa-2": "BH",
+        "nombre": "Bahrein"
+      },
+      {
+        "código": 50,
+        "codigo": "BGD",
+        "alfa-2": "BD",
+        "nombre": "Bangladesh"
+      },
+      {
+        "código": 51,
+        "codigo": "ARM",
+        "alfa-2": "AM",
+        "nombre": "Armenia"
+      },
+      {
+        "código": 52,
+        "codigo": "BRB",
+        "alfa-2": "BB",
+        "nombre": "Barbados"
+      },
+      {
+        "código": 56,
+        "codigo": "BEL",
+        "alfa-2": "BE",
+        "nombre": "Bélgica"
+      },
+      {
+        "código": 60,
+        "codigo": "BMU",
+        "alfa-2": "BM",
+        "nombre": "Bermudas"
+      },
+      {
+        "código": 64,
+        "codigo": "BTN",
+        "alfa-2": "BT",
+        "nombre": "Bhután"
+      },
+      {
+        "código": 68,
+        "codigo": "BOL",
+        "alfa-2": "BO",
+        "nombre": "Bolivia"
+      },
+      {
+        "código": 70,
+        "codigo": "BIH",
+        "alfa-2": "BA",
+        "nombre": "Bosnia-Herzegovina"
+      },
+      {
+        "código": 72,
+        "codigo": "BWA",
+        "alfa-2": "BW",
+        "nombre": "Botswana"
+      },
+      {
+        "código": 74,
+        "codigo": "BVT",
+        "alfa-2": "BV",
+        "nombre": "Bouvet, Isla"
+      },
+      {
+        "código": 76,
+        "codigo": "BRA",
+        "alfa-2": "BR",
+        "nombre": "Brasil"
+      },
+      {
+        "código": 84,
+        "codigo": "BLZ",
+        "alfa-2": "BZ",
+        "nombre": "Belice"
+      },
+      {
+        "código": 86,
+        "codigo": "IOT",
+        "alfa-2": "IO",
+        "nombre": "Océano Índico, Territorio británico del"
+      },
+      {
+        "código": 90,
+        "codigo": "SLB",
+        "alfa-2": "SB",
+        "nombre": "Salomón, Islas"
+      },
+      {
+        "código": 92,
+        "codigo": "VGB",
+        "alfa-2": "VG",
+        "nombre": "Vírgenes británicas, Islas"
+      },
+      {
+        "código": 96,
+        "codigo": "BRN",
+        "alfa-2": "BN",
+        "nombre": "Brunei Darussalam"
+      },
+      {
+        "código": 100,
+        "codigo": "BGR",
+        "alfa-2": "BG",
+        "nombre": "Bulgaria"
+      },
+      {
+        "código": 104,
+        "codigo": "MMR",
+        "alfa-2": "MM",
+        "nombre": "Myanmar"
+      },
+      {
+        "código": 108,
+        "codigo": "BDI",
+        "alfa-2": "BI",
+        "nombre": "Burundi"
+      },
+      {
+        "código": 112,
+        "codigo": "BLR",
+        "alfa-2": "BY",
+        "nombre": "Belarus"
+      },
+      {
+        "código": 116,
+        "codigo": "KHM",
+        "alfa-2": "KH",
+        "nombre": "Camboya"
+      },
+      {
+        "código": 120,
+        "codigo": "CMR",
+        "alfa-2": "CM",
+        "nombre": "Camerún"
+      },
+      {
+        "código": 124,
+        "codigo": "CAN",
+        "alfa-2": "CA",
+        "nombre": "Canadá"
+      },
+      {
+        "código": 132,
+        "codigo": "CPV",
+        "alfa-2": "CV",
+        "nombre": "Cabo Verde"
+      },
+      {
+        "código": 136,
+        "codigo": "CYM",
+        "alfa-2": "KY",
+        "nombre": "Caimán, Islas"
+      },
+      {
+        "código": 140,
+        "codigo": "CAF",
+        "alfa-2": "CF",
+        "nombre": "Centroafricana, República"
+      },
+      {
+        "código": 144,
+        "codigo": "LKA",
+        "alfa-2": "LK",
+        "nombre": "Sri Lanka"
+      },
+      {
+        "código": 148,
+        "codigo": "TCD",
+        "alfa-2": "TD",
+        "nombre": "Chad"
+      },
+      {
+        "código": 152,
+        "codigo": "CHL",
+        "alfa-2": "CL",
+        "nombre": "Chile"
+      },
+      {
+        "código": 156,
+        "codigo": "CHN",
+        "alfa-2": "CN",
+        "nombre": "China"
+      },
+      {
+        "código": 158,
+        "codigo": "TWN",
+        "alfa-2": "TW",
+        "nombre": "Taiwan, Provincia de China"
+      },
+      {
+        "código": 162,
+        "codigo": "CXR",
+        "alfa-2": "CX",
+        "nombre": "Christmas, isla"
+      },
+      {
+        "código": 166,
+        "codigo": "CCK",
+        "alfa-2": "CC",
+        "nombre": "Cocos (Keeling), islas"
+      },
+      {
+        "código": 170,
+        "codigo": "COL",
+        "alfa-2": "CO",
+        "nombre": "Colombia"
+      },
+      {
+        "código": 174,
+        "codigo": "COM",
+        "alfa-2": "KM",
+        "nombre": "Comores"
+      },
+      {
+        "código": 175,
+        "codigo": "MYT",
+        "alfa-2": "YT",
+        "nombre": "Mayotte"
+      },
+      {
+        "código": 178,
+        "codigo": "COG",
+        "alfa-2": "CG",
+        "nombre": "Congo"
+      },
+      {
+        "código": 180,
+        "codigo": "COD",
+        "alfa-2": "CD",
+        "nombre": "Congo, República democrática del"
+      },
+      {
+        "código": 184,
+        "codigo": "COK",
+        "alfa-2": "CK",
+        "nombre": "Cook, Islas"
+      },
+      {
+        "código": 188,
+        "codigo": "CRI",
+        "alfa-2": "CR",
+        "nombre": "Costa Rica"
+      },
+      {
+        "código": 191,
+        "codigo": "HRV",
+        "alfa-2": "HR",
+        "nombre": "Croacia"
+      },
+      {
+        "código": 192,
+        "codigo": "CUB",
+        "alfa-2": "CU",
+        "nombre": "Cuba"
+      },
+      {
+        "código": 196,
+        "codigo": "CYP",
+        "alfa-2": "CY",
+        "nombre": "Chipre"
+      },
+      {
+        "código": 203,
+        "codigo": "CZE",
+        "alfa-2": "CZ",
+        "nombre": "República Checa"
+      },
+      {
+        "código": 204,
+        "codigo": "BEN",
+        "alfa-2": "BJ",
+        "nombre": "Benín"
+      },
+      {
+        "código": 208,
+        "codigo": "DNK",
+        "alfa-2": "DK",
+        "nombre": "Dinamarca"
+      },
+      {
+        "código": 212,
+        "codigo": "DMA",
+        "alfa-2": "DM",
+        "nombre": "Dominica"
+      },
+      {
+        "código": 214,
+        "codigo": "DOM",
+        "alfa-2": "DO",
+        "nombre": "República Dominicana"
+      },
+      {
+        "código": 218,
+        "codigo": "ECU",
+        "alfa-2": "EC",
+        "nombre": "Ecuador"
+      },
+      {
+        "código": 222,
+        "codigo": "SLV",
+        "alfa-2": "SV",
+        "nombre": "El Salvador"
+      },
+      {
+        "código": 226,
+        "codigo": "GNQ",
+        "alfa-2": "GQ",
+        "nombre": "Guinea ecuatorial"
+      },
+      {
+        "código": 231,
+        "codigo": "ETH",
+        "alfa-2": "ET",
+        "nombre": "Etiopía"
+      },
+      {
+        "código": 232,
+        "codigo": "ERI",
+        "alfa-2": "ER",
+        "nombre": "Eritrea"
+      },
+      {
+        "código": 233,
+        "codigo": "EST",
+        "alfa-2": "EE",
+        "nombre": "Estonia"
+      },
+      {
+        "código": 234,
+        "codigo": "FRO",
+        "alfa-2": "FO",
+        "nombre": "Feroe, Islas"
+      },
+      {
+        "código": 238,
+        "codigo": "FLK",
+        "alfa-2": "FK",
+        "nombre": "Falkland (Malvinas), Islas"
+      },
+      {
+        "código": 239,
+        "codigo": "SGS",
+        "alfa-2": "GS",
+        "nombre": "Georgia del Sur e Islas Sandwich del Sur"
+      },
+      {
+        "código": 242,
+        "codigo": "FJI",
+        "alfa-2": "FJ",
+        "nombre": "Fiji"
+      },
+      {
+        "código": 246,
+        "codigo": "FIN",
+        "alfa-2": "FI",
+        "nombre": "Finlandia"
+      },
+      {
+        "código": 248,
+        "codigo": "ALA",
+        "alfa-2": "AX",
+        "nombre": "Åland, Islas"
+      },
+      {
+        "código": 250,
+        "codigo": "FRA",
+        "alfa-2": "FR",
+        "nombre": "Francia"
+      },
+      {
+        "código": 254,
+        "codigo": "GUF",
+        "alfa-2": "GF",
+        "nombre": "Guyana francesa"
+      },
+      {
+        "código": 258,
+        "codigo": "PYF",
+        "alfa-2": "PF",
+        "nombre": "Polinesia francesa"
+      },
+      {
+        "código": 260,
+        "codigo": "ATF",
+        "alfa-2": "TF",
+        "nombre": "Territorios Australes franceses"
+      },
+      {
+        "código": 262,
+        "codigo": "DJI",
+        "alfa-2": "DJ",
+        "nombre": "Djibouti"
+      },
+      {
+        "código": 266,
+        "codigo": "GAB",
+        "alfa-2": "GA",
+        "nombre": "Gabón"
+      },
+      {
+        "código": 268,
+        "codigo": "GEO",
+        "alfa-2": "GE",
+        "nombre": "Georgia"
+      },
+      {
+        "código": 270,
+        "codigo": "GMB",
+        "alfa-2": "GM",
+        "nombre": "Gambia"
+      },
+      {
+        "código": 275,
+        "codigo": "PSE",
+        "alfa-2": "PS",
+        "nombre": "Palestina, Territorio ocupado de"
+      },
+      {
+        "código": 276,
+        "codigo": "DEU",
+        "alfa-2": "DE",
+        "nombre": "Alemania"
+      },
+      {
+        "código": 288,
+        "codigo": "GHA",
+        "alfa-2": "GH",
+        "nombre": "Ghana"
+      },
+      {
+        "código": 292,
+        "codigo": "GIB",
+        "alfa-2": "GI",
+        "nombre": "Gibraltar"
+      },
+      {
+        "código": 296,
+        "codigo": "KIR",
+        "alfa-2": "KI",
+        "nombre": "Kiribati"
+      },
+      {
+        "código": 300,
+        "codigo": "GRC",
+        "alfa-2": "GR",
+        "nombre": "Grecia"
+      },
+      {
+        "código": 304,
+        "codigo": "GRL",
+        "alfa-2": "GL",
+        "nombre": "Groenlandia"
+      },
+      {
+        "código": 308,
+        "codigo": "GRD",
+        "alfa-2": "GD",
+        "nombre": "Granada"
+      },
+      {
+        "código": 312,
+        "codigo": "GLP",
+        "alfa-2": "GP",
+        "nombre": "Guadalupe"
+      },
+      {
+        "código": 316,
+        "codigo": "GUM",
+        "alfa-2": "GU",
+        "nombre": "Guam"
+      },
+      {
+        "código": 320,
+        "codigo": "GTM",
+        "alfa-2": "GT",
+        "nombre": "Guatemala"
+      },
+      {
+        "código": 324,
+        "codigo": "GIN",
+        "alfa-2": "GN",
+        "nombre": "Guinea"
+      },
+      {
+        "código": 328,
+        "codigo": "GUY",
+        "alfa-2": "GY",
+        "nombre": "Guayana"
+      },
+      {
+        "código": 332,
+        "codigo": "HTI",
+        "alfa-2": "HT",
+        "nombre": "Haití"
+      },
+      {
+        "código": 334,
+        "codigo": "HMD",
+        "alfa-2": "HM",
+        "nombre": "Heard y McDonald, Islas"
+      },
+      {
+        "código": 336,
+        "codigo": "VAT",
+        "alfa-2": "VA",
+        "nombre": "Santa Sede (Estado de la Ciudad del Vaticano)"
+      },
+      {
+        "código": 340,
+        "codigo": "HND",
+        "alfa-2": "HN",
+        "nombre": "Honduras"
+      },
+      {
+        "código": 344,
+        "codigo": "HKG",
+        "alfa-2": "HK",
+        "nombre": "Hong-Kong"
+      },
+      {
+        "código": 348,
+        "codigo": "HUN",
+        "alfa-2": "HU",
+        "nombre": "Hungría"
+      },
+      {
+        "código": 352,
+        "codigo": "ISL",
+        "alfa-2": "IS",
+        "nombre": "Islandia"
+      },
+      {
+        "código": 356,
+        "codigo": "IND",
+        "alfa-2": "IN",
+        "nombre": "India"
+      },
+      {
+        "código": 360,
+        "codigo": "IDN",
+        "alfa-2": "ID",
+        "nombre": "Indonesia"
+      },
+      {
+        "código": 364,
+        "codigo": "IRN",
+        "alfa-2": "IR",
+        "nombre": "Irán, República islámica de"
+      },
+      {
+        "código": 368,
+        "codigo": "IRQ",
+        "alfa-2": "IQ",
+        "nombre": "Iraq"
+      },
+      {
+        "código": 372,
+        "codigo": "IRL",
+        "alfa-2": "IE",
+        "nombre": "Irlanda"
+      },
+      {
+        "código": 376,
+        "codigo": "ISR",
+        "alfa-2": "IL",
+        "nombre": "Israel"
+      },
+      {
+        "código": 380,
+        "codigo": "ITA",
+        "alfa-2": "IT",
+        "nombre": "Italia"
+      },
+      {
+        "código": 384,
+        "codigo": "CIV",
+        "alfa-2": "CI",
+        "nombre": "Costa de Marfil"
+      },
+      {
+        "código": 388,
+        "codigo": "JAM",
+        "alfa-2": "JM",
+        "nombre": "Jamaica"
+      },
+      {
+        "código": 392,
+        "codigo": "JPN",
+        "alfa-2": "JP",
+        "nombre": "Japón"
+      },
+      {
+        "código": 398,
+        "codigo": "KAZ",
+        "alfa-2": "KZ",
+        "nombre": "Kazajstán"
+      },
+      {
+        "código": 400,
+        "codigo": "JOR",
+        "alfa-2": "JO",
+        "nombre": "Jordania"
+      },
+      {
+        "código": 404,
+        "codigo": "KEN",
+        "alfa-2": "KE",
+        "nombre": "Kenia"
+      },
+      {
+        "código": 408,
+        "codigo": "PRK",
+        "alfa-2": "KP",
+        "nombre": "Corea, República popular democrática de"
+      },
+      {
+        "código": 410,
+        "codigo": "KOR",
+        "alfa-2": "KR",
+        "nombre": "Corea, República de"
+      },
+      {
+        "código": 414,
+        "codigo": "KWT",
+        "alfa-2": "KW",
+        "nombre": "Kuwait"
+      },
+      {
+        "código": 417,
+        "codigo": "KGZ",
+        "alfa-2": "KG",
+        "nombre": "Kirguistán"
+      },
+      {
+        "código": 418,
+        "codigo": "LAO",
+        "alfa-2": "LA",
+        "nombre": "Laos, República democrática popular de"
+      },
+      {
+        "código": 422,
+        "codigo": "LBN",
+        "alfa-2": "LB",
+        "nombre": "Líbano"
+      },
+      {
+        "código": 426,
+        "codigo": "LSO",
+        "alfa-2": "LS",
+        "nombre": "Lesotho"
+      },
+      {
+        "código": 428,
+        "codigo": "LVA",
+        "alfa-2": "LV",
+        "nombre": "Letonia"
+      },
+      {
+        "código": 430,
+        "codigo": "LBR",
+        "alfa-2": "LR",
+        "nombre": "Liberia"
+      },
+      {
+        "código": 434,
+        "codigo": "LBY",
+        "alfa-2": "LY",
+        "nombre": "Libia, Jamahiriya árabe"
+      },
+      {
+        "código": 438,
+        "codigo": "LIE",
+        "alfa-2": "LI",
+        "nombre": "Liechtenstein"
+      },
+      {
+        "código": 440,
+        "codigo": "LTU",
+        "alfa-2": "LT",
+        "nombre": "Lituania"
+      },
+      {
+        "código": 442,
+        "codigo": "LUX",
+        "alfa-2": "LU",
+        "nombre": "Luxemburgo"
+      },
+      {
+        "código": 446,
+        "codigo": "MAC",
+        "alfa-2": "MO",
+        "nombre": "Macao"
+      },
+      {
+        "código": 450,
+        "codigo": "MDG",
+        "alfa-2": "MG",
+        "nombre": "Madagascar"
+      },
+      {
+        "código": 454,
+        "codigo": "MWI",
+        "alfa-2": "MW",
+        "nombre": "Malawi"
+      },
+      {
+        "código": 458,
+        "codigo": "MYS",
+        "alfa-2": "MY",
+        "nombre": "Malasia"
+      },
+      {
+        "código": 462,
+        "codigo": "MDV",
+        "alfa-2": "MV",
+        "nombre": "Maldivas"
+      },
+      {
+        "código": 466,
+        "codigo": "MLI",
+        "alfa-2": "ML",
+        "nombre": "Mali"
+      },
+      {
+        "código": 470,
+        "codigo": "MLT",
+        "alfa-2": "MT",
+        "nombre": "Malta"
+      },
+      {
+        "código": 474,
+        "codigo": "MTQ",
+        "alfa-2": "MQ",
+        "nombre": "Martinica"
+      },
+      {
+        "código": 478,
+        "codigo": "MRT",
+        "alfa-2": "MR",
+        "nombre": "Mauritania"
+      },
+      {
+        "código": 480,
+        "codigo": "MUS",
+        "alfa-2": "MU",
+        "nombre": "Mauricio"
+      },
+      {
+        "código": 484,
+        "codigo": "MEX",
+        "alfa-2": "MX",
+        "nombre": "Méjico"
+      },
+      {
+        "código": 492,
+        "codigo": "MCO",
+        "alfa-2": "MC",
+        "nombre": "Mónaco"
+      },
+      {
+        "código": 496,
+        "codigo": "MNG",
+        "alfa-2": "MN",
+        "nombre": "Mongolia"
+      },
+      {
+        "código": 498,
+        "codigo": "MDA",
+        "alfa-2": "MD",
+        "nombre": "Moldavia, República de Moldova"
+      },
+      {
+        "código": 499,
+        "codigo": "MNE",
+        "alfa-2": "ME",
+        "nombre": "Montenegro"
+      },
+      {
+        "código": 500,
+        "codigo": "MSR",
+        "alfa-2": "MS",
+        "nombre": "Montserrat"
+      },
+      {
+        "código": 504,
+        "codigo": "MAR",
+        "alfa-2": "MA",
+        "nombre": "Marruecos"
+      },
+      {
+        "código": 508,
+        "codigo": "MOZ",
+        "alfa-2": "MZ",
+        "nombre": "Mozambique"
+      },
+      {
+        "código": 512,
+        "codigo": "OMN",
+        "alfa-2": "OM",
+        "nombre": "Omán"
+      },
+      {
+        "código": 516,
+        "codigo": "NAM",
+        "alfa-2": "NA",
+        "nombre": "Namibia"
+      },
+      {
+        "código": 520,
+        "codigo": "NRU",
+        "alfa-2": "NR",
+        "nombre": "Nauru"
+      },
+      {
+        "código": 524,
+        "codigo": "NPL",
+        "alfa-2": "NP",
+        "nombre": "Nepal"
+      },
+      {
+        "código": 528,
+        "codigo": "NLD",
+        "alfa-2": "NL",
+        "nombre": "Países Bajos"
+      },
+      {
+        "código": 531,
+        "codigo": "CUW",
+        "alfa-2": "CW",
+        "nombre": "Curazao"
+      },
+      {
+        "código": 533,
+        "codigo": "ABW",
+        "alfa-2": "AW",
+        "nombre": "Aruba"
+      },
+      {
+        "código": 534,
+        "codigo": "SXM",
+        "alfa-2": "SX",
+        "nombre": "San Martín (parte holandesa)"
+      },
+      {
+        "código": 535,
+        "codigo": "BES",
+        "alfa-2": "BQ",
+        "nombre": "Bonaire, San Eustaquio y Saba"
+      },
+      {
+        "código": 540,
+        "codigo": "NCL",
+        "alfa-2": "NC",
+        "nombre": "Nueva Caledonia"
+      },
+      {
+        "código": 548,
+        "codigo": "VUT",
+        "alfa-2": "VU",
+        "nombre": "Vanuatu"
+      },
+      {
+        "código": 554,
+        "codigo": "NZL",
+        "alfa-2": "NZ",
+        "nombre": "Nueva Zelanda"
+      },
+      {
+        "código": 558,
+        "codigo": "NIC",
+        "alfa-2": "NI",
+        "nombre": "Nicaragua"
+      },
+      {
+        "código": 562,
+        "codigo": "NER",
+        "alfa-2": "NE",
+        "nombre": "Níger"
+      },
+      {
+        "código": 566,
+        "codigo": "NGA",
+        "alfa-2": "NG",
+        "nombre": "Nigeria"
+      },
+      {
+        "código": 570,
+        "codigo": "NIU",
+        "alfa-2": "NU",
+        "nombre": "Niué"
+      },
+      {
+        "código": 574,
+        "codigo": "NFK",
+        "alfa-2": "NF",
+        "nombre": "Norfolk, Isla"
+      },
+      {
+        "código": 578,
+        "codigo": "NOR",
+        "alfa-2": "NO",
+        "nombre": "Noruega"
+      },
+      {
+        "código": 580,
+        "codigo": "MNP",
+        "alfa-2": "MP",
+        "nombre": "Marianas del Norte, Islas"
+      },
+      {
+        "código": 581,
+        "codigo": "UMI",
+        "alfa-2": "UM",
+        "nombre": "Ultramarinas de los Estados Unidos, Islas"
+      },
+      {
+        "código": 583,
+        "codigo": "FSM",
+        "alfa-2": "FM",
+        "nombre": "Micronesia, Estados federados de"
+      },
+      {
+        "código": 584,
+        "codigo": "MHL",
+        "alfa-2": "MH",
+        "nombre": "Marshall, Islas"
+      },
+      {
+        "código": 585,
+        "codigo": "PLW",
+        "alfa-2": "PW",
+        "nombre": "Palau"
+      },
+      {
+        "código": 586,
+        "codigo": "PAK",
+        "alfa-2": "PK",
+        "nombre": "Pakistán"
+      },
+      {
+        "código": 591,
+        "codigo": "PAN",
+        "alfa-2": "PA",
+        "nombre": "Panamá"
+      },
+      {
+        "código": 598,
+        "codigo": "PNG",
+        "alfa-2": "PG",
+        "nombre": "Papúa Nueva Guinea"
+      },
+      {
+        "código": 600,
+        "codigo": "PRY",
+        "alfa-2": "PY",
+        "nombre": "Paraguay"
+      },
+      {
+        "código": 604,
+        "codigo": "PER",
+        "alfa-2": "PE",
+        "nombre": "Perú"
+      },
+      {
+        "código": 608,
+        "codigo": "PHL",
+        "alfa-2": "PH",
+        "nombre": "Filipinas"
+      },
+      {
+        "código": 612,
+        "codigo": "PCN",
+        "alfa-2": "PN",
+        "nombre": "Pitcairn"
+      },
+      {
+        "código": 616,
+        "codigo": "POL",
+        "alfa-2": "PL",
+        "nombre": "Polonia"
+      },
+      {
+        "código": 620,
+        "codigo": "PRT",
+        "alfa-2": "PT",
+        "nombre": "Portugal"
+      },
+      {
+        "código": 624,
+        "codigo": "GNB",
+        "alfa-2": "GW",
+        "nombre": "Guinea-Bissau"
+      },
+      {
+        "código": 626,
+        "codigo": "TLS",
+        "alfa-2": "TL",
+        "nombre": "Timor oriental"
+      },
+      {
+        "código": 630,
+        "codigo": "PRI",
+        "alfa-2": "PR",
+        "nombre": "Puerto Rico"
+      },
+      {
+        "código": 634,
+        "codigo": "QAT",
+        "alfa-2": "QA",
+        "nombre": "Qatar"
+      },
+      {
+        "código": 638,
+        "codigo": "REU",
+        "alfa-2": "RE",
+        "nombre": "Reunión"
+      },
+      {
+        "código": 642,
+        "codigo": "ROU",
+        "alfa-2": "RO",
+        "nombre": "Rumanía"
+      },
+      {
+        "código": 643,
+        "codigo": "RUS",
+        "alfa-2": "RU",
+        "nombre": "Federación Rusa"
+      },
+      {
+        "código": 646,
+        "codigo": "RWA",
+        "alfa-2": "RW",
+        "nombre": "Ruanda"
+      },
+      {
+        "código": 652,
+        "codigo": "BLM",
+        "alfa-2": "BL",
+        "nombre": "San Bartolomé"
+      },
+      {
+        "código": 654,
+        "codigo": "SHN",
+        "alfa-2": "SH",
+        "nombre": "Santa Helena"
+      },
+      {
+        "código": 659,
+        "codigo": "KNA",
+        "alfa-2": "KN",
+        "nombre": "San Cristóbal y Nieves"
+      },
+      {
+        "código": 660,
+        "codigo": "AIA",
+        "alfa-2": "AI",
+        "nombre": "Anguila"
+      },
+      {
+        "código": 662,
+        "codigo": "LCA",
+        "alfa-2": "LC",
+        "nombre": "Santa Lucía"
+      },
+      {
+        "código": 663,
+        "codigo": "MAF",
+        "alfa-2": "MF",
+        "nombre": "San Martín (parte francesa)"
+      },
+      {
+        "código": 666,
+        "codigo": "SPM",
+        "alfa-2": "PM",
+        "nombre": "San Pedro y Miquelón"
+      },
+      {
+        "código": 670,
+        "codigo": "VCT",
+        "alfa-2": "VC",
+        "nombre": "San Vicente y Granadinas"
+      },
+      {
+        "código": 674,
+        "codigo": "SMR",
+        "alfa-2": "SM",
+        "nombre": "San Marino"
+      },
+      {
+        "código": 678,
+        "codigo": "STP",
+        "alfa-2": "ST",
+        "nombre": "Santo Tomé y Príncipe"
+      },
+      {
+        "código": 682,
+        "codigo": "SAU",
+        "alfa-2": "SA",
+        "nombre": "Arabia Saudí"
+      },
+      {
+        "código": 686,
+        "codigo": "SEN",
+        "alfa-2": "SN",
+        "nombre": "Senegal"
+      },
+      {
+        "código": 688,
+        "codigo": "SRB",
+        "alfa-2": "RS",
+        "nombre": "Serbia"
+      },
+      {
+        "código": 690,
+        "codigo": "SYC",
+        "alfa-2": "SC",
+        "nombre": "Seychelles"
+      },
+      {
+        "código": 694,
+        "codigo": "SLE",
+        "alfa-2": "SL",
+        "nombre": "Sierra Leona"
+      },
+      {
+        "código": 702,
+        "codigo": "SGP",
+        "alfa-2": "SG",
+        "nombre": "Singapur"
+      },
+      {
+        "código": 703,
+        "codigo": "SVK",
+        "alfa-2": "SK",
+        "nombre": "Eslovaquia"
+      },
+      {
+        "código": 704,
+        "codigo": "VNM",
+        "alfa-2": "VN",
+        "nombre": "Vietnam"
+      },
+      {
+        "código": 705,
+        "codigo": "SVN",
+        "alfa-2": "SI",
+        "nombre": "Eslovenia"
+      },
+      {
+        "código": 706,
+        "codigo": "SOM",
+        "alfa-2": "SO",
+        "nombre": "Somalia"
+      },
+      {
+        "código": 710,
+        "codigo": "ZAF",
+        "alfa-2": "ZA",
+        "nombre": "Sudáfrica"
+      },
+      {
+        "código": 716,
+        "codigo": "ZWE",
+        "alfa-2": "ZW",
+        "nombre": "Zimbabwe"
+      },
+      {
+        "código": 724,
+        "codigo": "ESP",
+        "alfa-2": "ES",
+        "nombre": "España"
+      },
+      {
+        "código": 728,
+        "codigo": "SSD",
+        "alfa-2": "SS",
+        "nombre": "Sudán del Sur"
+      },
+      {
+        "código": 729,
+        "codigo": "SDN",
+        "alfa-2": "SD",
+        "nombre": "Sudán"
+      },
+      {
+        "código": 732,
+        "codigo": "ESH",
+        "alfa-2": "EH",
+        "nombre": "Sahara occidental"
+      },
+      {
+        "código": 740,
+        "codigo": "SUR",
+        "alfa-2": "SR",
+        "nombre": "Suriname"
+      },
+      {
+        "código": 744,
+        "codigo": "SJM",
+        "alfa-2": "SJ",
+        "nombre": "Svalbard e isla Jan Mayen"
+      },
+      {
+        "código": 748,
+        "codigo": "SWZ",
+        "alfa-2": "SZ",
+        "nombre": "Swazilandia"
+      },
+      {
+        "código": 752,
+        "codigo": "SWE",
+        "alfa-2": "SE",
+        "nombre": "Suecia"
+      },
+      {
+        "código": 756,
+        "codigo": "CHE",
+        "alfa-2": "CH",
+        "nombre": "Suiza"
+      },
+      {
+        "código": 760,
+        "codigo": "SYR",
+        "alfa-2": "SY",
+        "nombre": "Siria, República árabe"
+      },
+      {
+        "código": 762,
+        "codigo": "TJK",
+        "alfa-2": "TJ",
+        "nombre": "Tayikistán"
+      },
+      {
+        "código": 764,
+        "codigo": "THA",
+        "alfa-2": "TH",
+        "nombre": "Tailandia"
+      },
+      {
+        "código": 768,
+        "codigo": "TGO",
+        "alfa-2": "TG",
+        "nombre": "Togo"
+      },
+      {
+        "código": 772,
+        "codigo": "TKL",
+        "alfa-2": "TK",
+        "nombre": "Tokelau"
+      },
+      {
+        "código": 776,
+        "codigo": "TON",
+        "alfa-2": "TO",
+        "nombre": "Tonga"
+      },
+      {
+        "código": 780,
+        "codigo": "TTO",
+        "alfa-2": "TT",
+        "nombre": "Trinidad y Tobago"
+      },
+      {
+        "código": 784,
+        "codigo": "ARE",
+        "alfa-2": "AE",
+        "nombre": "Emiratos árabes unidos"
+      },
+      {
+        "código": 788,
+        "codigo": "TUN",
+        "alfa-2": "TN",
+        "nombre": "Túnez"
+      },
+      {
+        "código": 792,
+        "codigo": "TUR",
+        "alfa-2": "TR",
+        "nombre": "Turquía"
+      },
+      {
+        "código": 795,
+        "codigo": "TKM",
+        "alfa-2": "TM",
+        "nombre": "Turkmenistán"
+      },
+      {
+        "código": 796,
+        "codigo": "TCA",
+        "alfa-2": "TC",
+        "nombre": "Turcos y Caicos, Islas"
+      },
+      {
+        "código": 798,
+        "codigo": "TUV",
+        "alfa-2": "TV",
+        "nombre": "Tuvalu"
+      },
+      {
+        "código": 800,
+        "codigo": "UGA",
+        "alfa-2": "UG",
+        "nombre": "Uganda"
+      },
+      {
+        "código": 804,
+        "codigo": "UKR",
+        "alfa-2": "UA",
+        "nombre": "Ucrania"
+      },
+      {
+        "código": 807,
+        "codigo": "MKD",
+        "alfa-2": "MK",
+        "nombre": "Macedonia, antigua república yugoslava de"
+      },
+      {
+        "código": 818,
+        "codigo": "EGY",
+        "alfa-2": "EG",
+        "nombre": "Egipto"
+      },
+      {
+        "código": 826,
+        "codigo": "GBR",
+        "alfa-2": "GB",
+        "nombre": "Reino Unido"
+      },
+      {
+        "código": 831,
+        "codigo": "GGY",
+        "alfa-2": "GG",
+        "nombre": "Guernsey"
+      },
+      {
+        "código": 832,
+        "codigo": "JEY",
+        "alfa-2": "JE",
+        "nombre": "Jersey"
+      },
+      {
+        "código": 833,
+        "codigo": "IMN",
+        "alfa-2": "IM",
+        "nombre": "Man, Isla de"
+      },
+      {
+        "código": 834,
+        "codigo": "TZA",
+        "alfa-2": "TZ",
+        "nombre": "Tanzania, República unida de"
+      },
+      {
+        "código": 840,
+        "codigo": "USA",
+        "alfa-2": "US",
+        "nombre": "Estados Unidos"
+      },
+      {
+        "código": 850,
+        "codigo": "VIR",
+        "alfa-2": "VI",
+        "nombre": "Vírgenes (USA), Islas"
+      },
+      {
+        "código": 854,
+        "codigo": "BFA",
+        "alfa-2": "BF",
+        "nombre": "Burkina Faso"
+      },
+      {
+        "código": 858,
+        "codigo": "URY",
+        "alfa-2": "UY",
+        "nombre": "Uruguay"
+      },
+      {
+        "código": 860,
+        "codigo": "UZB",
+        "alfa-2": "UZ",
+        "nombre": "Uzbekistán"
+      },
+      {
+        "código": 862,
+        "codigo": "VEN",
+        "alfa-2": "VE",
+        "nombre": "Venezuela"
+      },
+      {
+        "código": 876,
+        "codigo": "WLF",
+        "alfa-2": "WF",
+        "nombre": "Wallis y Futuna"
+      },
+      {
+        "código": 882,
+        "codigo": "WSM",
+        "alfa-2": "WS",
+        "nombre": "Samoa"
+      },
+      {
+        "código": 887,
+        "codigo": "YEM",
+        "alfa-2": "YE",
+        "nombre": "Yemen"
+      },
+      {
+        "código": 894,
+        "codigo": "ZMB",
+        "alfa-2": "ZM",
+        "nombre": "Zambia"
+      }
+    ]
+  }
