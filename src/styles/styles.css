@@ -45,6 +45,13 @@
     color: black; /* Color del texto */
 }
 
+.card a {
+    text-decoration: none;
+}
+.card a:visited {
+    color: white;
+}
+
 
 
 

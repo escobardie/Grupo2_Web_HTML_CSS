@@ -114,7 +114,11 @@ h3 {
     text-align:left;
 }
 
-@media screen and (max-width: 991px) {
+a:visited {
+    color: black;
+}
+
+@media screen and (max-width: 980px) {
     .column, input[type=submit] {
         width: 100%;
         margin-top: 0;
@@ -126,5 +130,8 @@ h3 {
         padding-bottom: 1.5em;
         width: 100%;
         text-align: center;
+    }
+    .aside {
+        
     }
 }
