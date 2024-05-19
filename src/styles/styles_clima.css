@@ -1,0 +1,87 @@
+:root {
+	--gradient: linear-gradient( 135deg, #72EDF2 10%, #5151E5 100%);
+}
+/*ver*/
+.flex-box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+/*corregir*/
+.contasiner {
+ 	border-radius: 25px;
+	color: #ffffff;
+	height: 290px;
+}
+.weather-side {
+	position: relative;
+    margin: 10px;
+    padding: 5px;
+	height: 100%;
+	border-radius: 25px;
+	background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 15%, rgba(0,212,255,1) 100%);
+	width: 300px;	
+	-webkit-transition: -webkit-transform 300ms ease;
+	transition: -webkit-transform 300ms ease;
+
+}
+.weather-side:hover {
+	-webkit-transform: scale(1.1) ;
+	        transform: scale(1.1) ;
+}
+
+.weather-gradient {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-image: var(--gradient);
+	border-radius: 25px;
+	opacity: 0.8;
+}
+.date-container {
+	position: absolute;
+	top: 25px;
+	left: 25px;
+}
+.date-dayname {
+	margin: 0;
+}
+.date-day {
+	display: block;
+}
+.location {
+	display: inline-block;
+	margin-top: 10px;
+}
+.location-icon {
+	display: inline-block;
+	height: 0.8em;
+	width: auto;
+	margin-right: 5px;
+}
+.weather-container {
+	position: absolute;
+	bottom: 25px;
+	left: 25px;
+}
+.weather-icon.feather {
+	height: 60px;
+	width: auto;
+}
+.weather-temp {
+	margin: 0;
+	font-weight: 700;
+	font-size: 4em;
+}
+.weather-desc {
+	margin: 0;
+}
+.min-temp{
+    color: rgb(209, 206, 206);
+}
