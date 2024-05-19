@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let difKelvin = 273.15;
 
     // Lista de ciudades
-    let cities = ['Rosario', 'Buenos Aires', 'Madrid', 'Londres'];
+    let cities = ['Rosario', 'Buenos Aires', 'Cordoba', 'Resistencia'];
 
     function getCurrentDate() {
         let currentDate = new Date();
