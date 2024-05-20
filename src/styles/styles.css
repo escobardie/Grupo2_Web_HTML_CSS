@@ -38,7 +38,7 @@
     top: 50%; /* Centra verticalmente */
     left: 50%; /* Centra horizontalmente */
     transform: translate(-50%, -50%); /* Centra completamente el contenido */
-    background-color: rgba(255, 255, 255, 0.8); /* Opcional: agregar fondo semi-transparente */
+    background-color: rgba(36, 98, 105, 0.8); /* Opcional: agregar fondo semi-transparente */
     padding: 5px 10px; /* Opcional: ajustar el espacio alrededor del texto */
     border-radius: 5px; /* Opcional: agregar bordes redondeados */
     text-decoration: none; /* Elimina el subrayado del enlace */
