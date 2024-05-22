@@ -26,7 +26,7 @@
                 <i class='bx bxl-linkedin' ><img src="../public/assets/img/ico/logo-linkedin.svg" alt=""> </i>
             </div>
             <p>o usa tu email para registrarte</p>
-            <form class="form form-register" novalidate>
+            <form action="single_page.html" class="form form-register" novalidate>
                 <div>
                     <label>
                         <i class='bx bx-user' ></i>
@@ -45,7 +45,10 @@
                         <input type="password" placeholder="Contraseña" name="userPassword">
                     </label>
                </div>
-               
+                <!--Agrego el checkbox-->
+                <div>
+                    <input type="checkbox" name="checkbox" required> Acepto los terminos y condiciones 
+                </div>
                 <input type="submit" value="Registrarse">
                 <div class="alerta-error">Todos los campos son obligatorios</div>
                 <div class="alerta-exito">Te registraste correctamente</div>
