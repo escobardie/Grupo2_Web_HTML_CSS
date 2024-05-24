@@ -41,7 +41,6 @@
 .aside {
     display: flex;
     flex-direction: column;
-    /*align-items: start;*/
     flex: 1 1 auto;
     gap: 1rem;
 }
@@ -75,7 +74,6 @@
 .tags-links a {
     text-decoration: none;
 }
-
 
 .posts {
     display: grid;
@@ -120,7 +118,7 @@ a:visited {
     color: black;
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 990px) {
     .column, input[type=submit] {
         width: 100%;
         margin-top: 0;
@@ -132,8 +130,5 @@ a:visited {
         padding-bottom: 1.5em;
         width: 100%;
         text-align: center;
-    }
-    .aside {
-        
     }
 }
