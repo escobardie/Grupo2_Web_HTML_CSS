@@ -92,6 +92,12 @@ input[type=submit]:hover {
     margin-top: 6px;
     padding: 20px;
 }
+
+/* color del footer*/
+
+footer {
+    background-color: #125958;
+}
           
 /* Limpiar flotadores después de las columnas. */
 .row:after {

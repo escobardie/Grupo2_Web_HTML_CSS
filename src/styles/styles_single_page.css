@@ -120,6 +120,12 @@ a:visited {
     color: black;
 }
 
+/* color del footer*/
+
+footer {
+    background-color: #125958;
+}
+
 @media screen and (max-width: 980px) {
     .column, input[type=submit] {
         width: 100%;
