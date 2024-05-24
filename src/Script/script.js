@@ -43,7 +43,7 @@ function validacionformcontacto() {
     valor_email = document.getElementById("email").value;*/
 
     if (form_name == null || form_name.length == 0) {
-        document.getElementById('mensajename').innerHTML = ": Completa el apellido!.";
+        document.getElementById('mensajename').innerHTML = ": Completa el nombre!.";
         elemento = document.getElementById('fname');
         elemento.focus();
 
