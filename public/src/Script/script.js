@@ -9,7 +9,7 @@ let difKelvin = 273.15
 
 function traer() {
     //fetch("https://gist.githubusercontent.com/ratrabbit/e39778d3de34286e8dd36fe80c05e237/raw/187ebd1d7052af70bdcbb47cc5224f3f40084bac/countries.json")
-    fetch("/src/Script/paises.json")
+    fetch("src/Script/paises.json")
         .then(res => res.json())
         .then(datos => {
             tabla(datos)
