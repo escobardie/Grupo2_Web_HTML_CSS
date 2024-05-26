@@ -99,7 +99,9 @@ input[type=submit]:hover {
     display: table;
     clear: both;
 }
-          
+.styles-bg{
+    background-color: #125958;
+}          
 /* Diseño responsivo: cuando la pantalla tiene menos de 600 píxeles de ancho, haga que las dos columnas se apilen una encima de la otra en lugar de una al lado de la otra. */
 @media screen and (max-width: 600px) {
     .column, input[type=submit] {
