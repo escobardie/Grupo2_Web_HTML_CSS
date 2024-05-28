@@ -3,7 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url(assets/img/login/bg.jpg);
+    background: url(assets/img/login/bg.jpg);
     background-size: cover;
   
 }
